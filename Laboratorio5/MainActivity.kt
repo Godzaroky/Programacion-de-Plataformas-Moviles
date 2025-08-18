@@ -166,7 +166,7 @@ fun VistaLab5(modifier: Modifier = Modifier) {
                 }
             }
 
-            // Card corregida
+            // Card
             Card(
                 modifier = Modifier
                     .fillMaxWidth()
